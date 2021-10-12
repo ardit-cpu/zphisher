@@ -1,2 +1,2 @@
-# zphisher
-for hacking {not responsible for what you doo with this tool}
+# zphisher-master
+ FOR HACKING {NOT RESPONSIBLE FOR THIS HACK}
